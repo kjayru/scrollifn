@@ -1,0 +1,17 @@
+{
+    "name": "wiltinoco/firesdk",
+    "description": "conexion a firebase",
+    "type": "project",
+    "authors": [
+        {
+            "name": "wile",
+            "email": "wiltinoco@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "^4.17.0",
+        "google/cloud": "dev-master",
+        "google/appengine-php-sdk": "dev-master"
+    }
+}
